@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Liliane Iradukunda
 
-I'm a passionate **Software Developer** with over 3 years of hands-on experience in developing scalable and user-centric applications. I specialize in **Frontend Development**, **Backend Development**, and **UI/UX Design**, aiming to create impactful and innovative solutions.
+I'm a passionate **Software Developer** with over 3 years of hands-on experience in developing scalable and user-centric applications. I specialize in **Frontend Development**, **Backend Development**, aiming to create impactful and innovative solutions.
 
 ---
 
