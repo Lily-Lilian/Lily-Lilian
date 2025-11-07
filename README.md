@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with over 3 years of hands-on experience
 - **Backend:** Node.js, Spring Boot, Express.js
 - **Database Management:** MongoDB, DynamoDB, PostgreSQL,MySQL,SQLITE
 - **DevOps:** Git, GitHub Actions, Jenkins, Docker, CI/CD
-- **Other Skills:** SaaS Development, API Integration, UI/UX Design
+- **Other Skills:** SaaS Development, UI/UX Design
 
 ---
 
