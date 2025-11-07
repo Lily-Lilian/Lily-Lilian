@@ -21,7 +21,7 @@ I'm a passionate **Software Developer** with over 3 years of hands-on experience
 ---
 
 ### 🌟 Featured Projects
-- **[MSC Explora](https://crm-system-web-analytics-xdee.vercel.app/](https://explorajourneys.com/int/en)**
+- **[MSC Explora](https://explorajourneys.com/int/en)**
 - **[CRM Dashboard](https://crm-system-web-analytics-xdee.vercel.app/)**
 - **[Cinnamon Landing Page](https://cinnamon-next-project.vercel.app/)**
 
